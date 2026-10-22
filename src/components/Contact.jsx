@@ -107,7 +107,7 @@ const Contact = () => {
 
             {/* Email */}
             <a
-              href="mailto:YOUR_EMAIL@gmail.com"
+              href="mailto:mddastagir896@gmail.com"
               className="group flex min-w-0 items-start gap-3
               rounded-xl p-2 transition-colors
               hover:bg-white/5"
@@ -122,7 +122,7 @@ const Contact = () => {
                 </span>
                 <span className="mt-1 block break-all text-sm
                 font-medium text-gray-200">
-                  YOUR_EMAIL@gmail.com
+                  mddastagir896@gmail.com
                 </span>
               </span>
 
