@@ -2,9 +2,9 @@
 import { MdOutlineArrowOutward } from "react-icons/md";
 import { FiGithub } from "react-icons/fi";
 
-import ecom from "../../public/images/ecom.jpg";
-import chatapp from "../../public/images/chatapp.avif";
-import dashboard from "../../public/images/dashboard.jpg";
+import ems from "../../public/images/ems.jfif";
+import zerodha from "../../public/images/zerodha.png";
+import airbnb from "../../public/images/airbnb.jfif";
 
 const projects = [
   {
@@ -13,7 +13,7 @@ const projects = [
     category: "Web Application",
     description:
       "A platform to manage employee records, information and daily workflows efficiently.",
-    image: ecom,
+    image: ems,
     liveLink: "", // Add your deployed website URL
     sourceLink:
       "https://github.com/md-dastgir/Employee-Management-System",
@@ -25,7 +25,7 @@ const projects = [
     category: "Fintech UI",
     description:
       "A trading platform-inspired interface with a clean layout and responsive design.",
-    image: chatapp,
+    image: zerodha,
     liveLink: "",
     sourceLink: "https://github.com/md-dastgir/ZerodhaApp",
     tech: ["React", "JavaScript", "CSS"],
@@ -36,7 +36,7 @@ const projects = [
     category: "Booking Platform",
     description:
       "A modern property discovery interface inspired by Airbnb's booking experience.",
-    image: dashboard,
+    image: airbnb,
     liveLink: "",
     sourceLink: "https://github.com/md-dastgir/AirbnbClone",
     tech: ["React", "JavaScript", "CSS"],
